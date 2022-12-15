@@ -1,0 +1,18 @@
+{
+  "plugins": [ "versions-select" ],
+  "pluginsConfig": {
+    "versions": {
+      "gitbookConfigURL": "https://raw.githubusercontent.com/prescottprue/react-redux-firebase/v2.0.0/book.json",
+      "options": [
+        {
+          "value": "http://react-redux-firebase.com/history/v1.4.0/",
+          "text": "Version v1.4.0"
+        },
+        {
+          "value": "http://react-redux-firebase.com/history/v1.4.0/",
+          "text": "Version v2.0.0"
+        }
+      ]
+    }
+  }
+}
